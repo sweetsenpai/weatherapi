@@ -4,7 +4,7 @@ from telebot import apihelper
 import money
 #  from weatherapi import weather
 apihelper.proxy = {'https': 'socks5://352354383:RiqvhK6t@phobos.public.opennetwork.cc:1090'}
-TOKEN = "559015083:AAFmBW3TV6NEX579WlMEmgDczsuLekDxPIg"
+TOKEN = ""
 bot = telebot.TeleBot(token=TOKEN)
 
 
